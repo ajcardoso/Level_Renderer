@@ -2,6 +2,7 @@ ReadMe.doc
 
 Authored by: Armando J. Cardoso 
 
+Prior to building you would need to correct the file path for your computer and you must make a build using the command prompt then use this: cmake -S ./ -B ./build
 
 	    Controls for Camera
            -----------------------
